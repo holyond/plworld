@@ -14,3 +14,5 @@ a  para world rpg game, run any where any platform, main engine and data put on 
     we keep the data in blockchain
     we keep the game code in blockchain node,and run every node
     
+# design
+    read doc/design.md
